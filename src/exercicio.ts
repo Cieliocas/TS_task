@@ -20,3 +20,6 @@ console.log(dizOla('Lucas'), multiplicacao(2, 3)); // Olá Lucas, o resultado da
 // Como utilizar o codigo
 // tsc .\src\exercicio.ts
 // node .\src\exercicio.js = isso testará o código
+
+// Resultado esperado
+// Olá Lucas, o resultado da multiplicação é: 6
