@@ -16,3 +16,7 @@ function multiplicacao(num1: number, num2: number): number {
 
 // Testes
 console.log(dizOla('Lucas'), multiplicacao(2, 3)); // Olá Lucas, o resultado da multiplicação é: 6
+
+// Como utilizar o codigo
+// tsc .\src\exercicio.ts
+// node .\src\exercicio.js = isso testará o código
